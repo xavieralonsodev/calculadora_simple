@@ -36,5 +36,7 @@ def main():
     print(f'División: {division(x,y)}')
     print(f'Potencia: {potencia(x,y)}')
 
+# main
+
 if __name__ == 'main':
     main()
