@@ -35,6 +35,7 @@ def main():
     print(f'Multiplicación: {multiplicar(x,y)}')
     print(f'División: {division(x,y)}')
     print(f'Potencia: {potencia(x,y)}')
+    print('Cambio hecho a pelo en github')
 
 # main
 
